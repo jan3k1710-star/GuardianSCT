@@ -1,0 +1,70 @@
+// Kamery SCT w Krakowie
+        points.add(MapPoint(1001, 50.08726, 19.89143, PointType.CAMERA_ACTIVE)) // Conrada X Armii Krajowej
+        points.add(MapPoint(1002, 50.08613, 19.95474, PointType.CAMERA_ACTIVE)) // Aleja 29 Listopada X Opolska
+        points.add(MapPoint(1003, 50.06690, 20.00445, PointType.CAMERA_ACTIVE)) // Aleja Pokoju x Nowohucka
+        points.add(MapPoint(1004, 50.06854, 20.05261, PointType.CAMERA_ACTIVE)) // Bulwarowa X Ptaszyckiego
+        points.add(MapPoint(1005, 50.05669, 20.00105, PointType.CAMERA_ACTIVE)) // Nowohucka x Cieplownicza
+        points.add(MapPoint(1006, 50.05964, 19.97574, PointType.CAMERA_ACTIVE)) // Ofiar Dąbia x Aleja Pokoju
+        points.add(MapPoint(1007, 50.05773, 19.95932, PointType.CAMERA_ACTIVE)) // Rondo Grzegórzeckie
+        points.add(MapPoint(1008, 50.04549, 19.92137, PointType.CAMERA_ACTIVE)) // Monte Cassino
+        points.add(MapPoint(1009, 50.04892, 19.93274, PointType.CAMERA_ACTIVE)) // Rondo Grunwaldzkie
+        points.add(MapPoint(1010, 50.04219, 19.96095, PointType.CAMERA_ACTIVE)) // Podgórze SKA
+        points.add(MapPoint(1011, 50.04511, 19.97360, PointType.CAMERA_ACTIVE)) // Nowohucka x Kuklińskiego
+        points.add(MapPoint(1012, 50.04897, 19.98174, PointType.CAMERA_ACTIVE)) // Saska x Nowohucka
+        points.add(MapPoint(1013, 50.03606, 19.94075, PointType.CAMERA_ACTIVE)) // Rondo Matecznego
+        points.add(MapPoint(1014, 50.04078, 19.98346, PointType.CAMERA_ACTIVE)) // Lipska x Saska
+        points.add(MapPoint(1015, 50.03983, 20.00018, PointType.CAMERA_ACTIVE)) // Mały Płaszów
+        points.add(MapPoint(1016, 50.03907, 20.00449, PointType.CAMERA_ACTIVE)) // Lipska x Mierzeja Wiślana
+        points.add(MapPoint(1017, 50.03859, 20.04263, PointType.CAMERA_ACTIVE)) // Śliwaka x Półtanki
+        points.add(MapPoint(1018, 50.03767, 20.05908, PointType.CAMERA_ACTIVE)) // Śliwaka x Wrobela
+        points.add(MapPoint(1019, 50.03161, 19.92056, PointType.CAMERA_ACTIVE)) // Grota-Roweckiego x Kobierzyńska
+        points.add(MapPoint(1020, 50.02910, 19.93666, PointType.CAMERA_ACTIVE)) // Tischnera x Wadowicka
+        points.add(MapPoint(1021, 50.03271, 19.94587, PointType.CAMERA_ACTIVE)) // Powstanców Slaskich x Kamieńskiego
+        points.add(MapPoint(1022, 50.03145, 19.94575, PointType.CAMERA_ACTIVE)) // Turowicza x Tischnera
+        points.add(MapPoint(1023, 50.03161, 19.94864, PointType.CAMERA_ACTIVE)) // Puszkarska x Kamienskiego
+        points.add(MapPoint(1024, 50.02685, 19.97679, PointType.CAMERA_ACTIVE)) // Malborska x Wielicka
+        points.add(MapPoint(1025, 50.02628, 19.97400, PointType.CAMERA_ACTIVE)) // Malbroska x Kamienskiego
+        points.add(MapPoint(1026, 50.02404, 19.97954, PointType.CAMERA_ACTIVE)) // Nowosądecka x Wielicka
+        points.add(MapPoint(1027, 50.02350, 19.98103, PointType.CAMERA_ACTIVE)) // Biezanowska x Wielicka
+        points.add(MapPoint(1028, 50.01751, 19.88946, PointType.CAMERA_ACTIVE)) // pętla Czerwone Maki
+        points.add(MapPoint(1029, 50.01842, 19.93099, PointType.CAMERA_ACTIVE)) // Zakopianska x Zbrojarzy
+        points.add(MapPoint(1030, 50.01486, 19.94541, PointType.CAMERA_ACTIVE)) // Trasa Lagiewnicka x Turowicza
+        points.add(MapPoint(1031, 50.01394, 19.99943, PointType.CAMERA_ACTIVE)) // Teligi x Wielicka
+        points.add(MapPoint(1032, 50.00905, 20.01136, PointType.CAMERA_ACTIVE)) // Wielicka x Czerwiakowskiego
+        points.add(MapPoint(1033, 50.00152, 20.02590, PointType.CAMERA_ACTIVE)) // Wielicka x Nad Serafą
+        points.add(MapPoint(1034, 50.00702, 19.92492, PointType.CAMERA_ACTIVE)) // Jugowicka x Zakopiańska
+        points.add(MapPoint(1035, 50.00561, 19.94445, PointType.CAMERA_ACTIVE)) // Herberta x Halszki
+        points.add(MapPoint(1036, 49.98738, 19.91462, PointType.CAMERA_ACTIVE)) // Zakopianska x Proninska
+        points.add(MapPoint(1037, 50.00660, 19.87372, PointType.CAMERA_ACTIVE)) // Babińskiego x Skotnicka
+        points.add(MapPoint(1038, 49.99933, 19.86194, PointType.CAMERA_ACTIVE)) // Skotnicka
+        points.add(MapPoint(1039, 49.99570, 19.85248, PointType.CAMERA_ACTIVE)) // Skotnicka x Wrony
+
+
+
+        // Punkty informacyjne
+        points.add(MapPoint(2001, 50.09308, 19.89591, PointType.INFO_POINT)) // Galeria Bronowice
+        points.add(MapPoint(2002, 50.10472, 19.96293, PointType.INFO_POINT)) // P&R Górka Narodowa
+        points.add(MapPoint(2003, 50.08753, 19.98216, PointType.INFO_POINT)) // POM UMK, Centrum Serenada
+        points.add(MapPoint(2004, 50.07691, 20.03190, PointType.INFO_POINT)) // Urząd Miasta Krakowa os. Zgody 2
+        points.add(MapPoint(2005, 50.06350, 19.91296, PointType.INFO_POINT)) // Biuro Strefy Płatnego Parkowania, Stadion Wisły
+        points.add(MapPoint(2006, 50.06208, 19.96158, PointType.INFO_POINT)) // Urząd Miasta Krakowa al. Powstania Warszawskiego 10
+        points.add(MapPoint(2007, 50.06353, 20.00789, PointType.INFO_POINT)) // Zarząd Dróg Miasta Krakowa, ul. Centralna 53
+        points.add(MapPoint(2008, 50.03879, 19.96637, PointType.INFO_POINT)) // Urząd Miasta Krakowa, ul. Wielicka 28a
+
+
+        // Stacje BP (płatności)
+        points.add(MapPoint(3001, 50.09602, 19.87343, PointType.PAYMENT_STATION)) // BP 576 Rękawka
+        points.add(MapPoint(3002, 50.12586, 19.87134, PointType.PAYMENT_STATION)) // BP 319 Jasnogórska
+        points.add(MapPoint(3003, 50.13347, 19.96668, PointType.PAYMENT_STATION)) // BP 849 Bibice
+        points.add(MapPoint(3004, 50.10594, 20.07408, PointType.PAYMENT_STATION)) // BP 820 Kocmyrzowska
+        points.add(MapPoint(3005, 50.07024, 20.10172, PointType.PAYMENT_STATION)) // BP 873 Meksyk
+        points.add(MapPoint(3006, 50.03560, 19.82042, PointType.PAYMENT_STATION)) // BP 306 Mirowska
+        points.add(MapPoint(3007, 49.98161, 19.83715, PointType.PAYMENT_STATION)) // BP 882 Skawina
+        points.add(MapPoint(3008, 49.98164, 19.91215, PointType.PAYMENT_STATION)) // BP 573 Lajkonik
+        points.add(MapPoint(3009, 49.99593, 20.03430, PointType.PAYMENT_STATION)) // BP 230 Solanka - Wieliczka
+
+
+
+        // Kamery do potwierdzenia
+        points.add(MapPoint(4001, 50.05519, 19.92755, PointType.CAMERA_TO_CONFIRM)) // Zwierzyniecka x Most Dębnicki
+        points.add(MapPoint(4002, 50.04904, 19.90358, PointType.CAMERA_TO_CONFIRM)) // Księcia Józefa x Malczewskiego
